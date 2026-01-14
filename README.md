@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## About me
-- Python developer
-- Currently improving my skills through hands-on projects
+Python developer focused on building strong fundamentals, currently expanding skills into full-stack development through hands-on projects and continuous learning. Background in 3D art, software development, and robotics, bringing a multidisciplinary perspective to problem-solving.
 
 ## Tech stack
 <p align="left">
