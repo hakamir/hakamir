@@ -1,42 +1,108 @@
-## 👋 Hi there
+# 👋 Welcome
 
-### About Me
-Python developer with strong fundamentals, expanding into full-stack development through hands-on projects. Background in 3D art, software development, and robotics — bringing a multidisciplinary approach to problem-solving.
+## About Me
 
-### 💻 Tech Stack
+Full-Stack Web Developer with an engineering background in embedded systems, robotics, and artificial intelligence.
 
-**Languages**  
-<p align="left" style="display: flex; gap: 12px;"> 
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+I specialize in building modern web applications with **Python backends**, **REST APIs**, and **Vue.js frontends**.  
+My previous experience in industrial engineering and software development gives me a strong approach to architecture, debugging, and problem solving.
+
+Outside of development, I have a strong interest in **3D modeling and Music creation**.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-**Frameworks & Libraries**  
-<p align="left" style="display: flex; gap: 12px;"> 
-  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> 
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
-  <img alt="Qt" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/> 
+### Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40"/>
 </p>
 
-**Tools & IDEs**  
-<p align="left" style="display: flex; gap: 12px;"> 
-  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-  <img alt="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40"/>
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+- REST API design
+- Authentication & authorization (JWT)
+- SQLAlchemy / Alembic
+
+### Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-**Design / 3D / Game Engines**  
-<p align="left" style="display: flex; gap: 12px;"> 
-  <img alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/> 
-  <img alt="Unreal Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40"/>
+- Vue 3 + Composition API
+- TypeScript
+- Responsive interfaces
+- Component-based architecture
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
 </p>
 
-**OS / Platforms**  
-<p align="left" style="display: flex; gap: 12px;">
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>
-  <img alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40"/>
+- Docker-based deployments
+- Nginx reverse proxy configuration
+- CI/CD workflows
+- Linux environments
+
+### Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### 🎵 Artist Portfolio — Full-Stack Application
+
+A complete web application developed as a final project.
+
+**Stack:**
+- Vue 3 + TypeScript
+- Flask REST API
+- MongoDB
+- Docker
+- Nginx
+- CI/CD
+
+Features:
+- JWT authentication
+- Role-based access control
+- Content management system
+- Production deployment on VPS
+
+Repository:
+👉 https://github.com/hakamir/Portfolio-Block-3
+
+---
+
+## 🎨 Other Interests
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40"/>
+</p>
+
+- Music composition
+- 3D modeling
+- PBR materials
+- VFX workflows
